@@ -1,9 +1,7 @@
 # Python
 專題一　Technews　https://drive.google.com/file/d/1R03f5_QFZWWp6k84vB8psK9IsH1n1HQf/view
-
 1-1 
 爬取網址: https://technews.tw/
-
 1-2 
 開啟 Exam1_1 檔案,使用檔案裡面提供的連結,去爬報導內的正文內容文字
 一個 url 則產生一個 txt 檔,內容為 url 的正文文字
@@ -12,7 +10,6 @@ spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 �
   
 
 專題二　News API　https://drive.google.com/file/d/1qly8Fzuzl-ovJ0Z7mwehSLxQ6USOIF9i/view
-
 2-1 
 研讀 NewsAPI: https://newsapi.org/  
 使用 python(請使用: from newsapi import NewsApiClient 的語法取資料,不要用requests.get),  
@@ -21,7 +18,6 @@ spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 �
 *爬出來的新聞只能來自 ETtoday , 風傳媒, 中國時報, 聯合新聞網  
 *由新到舊排序  
 *一頁呈現 100 篇報導  
-
 2-2 
 加分題 : 再使用requests.get語法讀取資料
   
