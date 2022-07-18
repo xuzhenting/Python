@@ -1,5 +1,5 @@
 # Python
-專題一　Technews　https://drive.google.com/file/d/1R03f5_QFZWWp6k84vB8psK9IsH1n1HQf/view
+專題一　Technews　https://drive.google.com/file/d/1R03f5_QFZWWp6k84vB8psK9IsH1n1HQf/view  
 1-1 
 爬取網址: https://technews.tw/
 1-2 
@@ -9,7 +9,7 @@ sum_title_url 連結所爬的 txt 檔名為 sum_對應的 category_ sum_title �
 spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 個字
   
 
-專題二　News API　https://drive.google.com/file/d/1qly8Fzuzl-ovJ0Z7mwehSLxQ6USOIF9i/view
+專題二　News API　https://drive.google.com/file/d/1qly8Fzuzl-ovJ0Z7mwehSLxQ6USOIF9i/view  
 2-1 
 研讀 NewsAPI: https://newsapi.org/  
 使用 python(請使用: from newsapi import NewsApiClient 的語法取資料,不要用requests.get),  
