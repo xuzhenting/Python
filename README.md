@@ -1,7 +1,7 @@
 # Python
 專題一　Technews　https://drive.google.com/file/d/1R03f5_QFZWWp6k84vB8psK9IsH1n1HQf/view  
 1-1 
-爬取網址: https://technews.tw/
+爬取網址: https://technews.tw/  
 1-2 
 開啟 Exam1_1 檔案,使用檔案裡面提供的連結,去爬報導內的正文內容文字
 一個 url 則產生一個 txt 檔,內容為 url 的正文文字
