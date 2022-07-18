@@ -17,10 +17,10 @@ spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 �
 研讀 NewsAPI: https://newsapi.org/  
 使用 python(請使用: from newsapi import NewsApiClient 的語法取資料,不要用requests.get),  
 控制 newsapi 裡面的選項取得報導,且報導須滿足以下要求:
-1. 標題或報導內容一定要有 "武漢肺炎" 或 "新冠肺炎" 四個字,且一定不能出現 外遇 兩個字
-2. 爬出來的新聞只能來自 ETtoday , 風傳媒, 中國時報, 聯合新聞網
-3. 由新到就排序
-4. 一頁呈現 100 篇報導
+*標題或報導內容一定要有 "武漢肺炎" 或 "新冠肺炎" 四個字,且一定不能出現 外遇 兩個字
+*爬出來的新聞只能來自 ETtoday , 風傳媒, 中國時報, 聯合新聞網
+*由新到就排序
+*一頁呈現 100 篇報導
 
 2-2 
 加分題 : 再使用requests.get語法讀取資料
