@@ -9,7 +9,7 @@
 一個 url 則產生一個 txt 檔,內容為 url 的正文文字
 sum_title_url 連結所爬的 txt 檔名為 sum_對應的 category_ sum_title 的前 4 個字
 spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 個字
-
+  
 
 專題二　News API　https://drive.google.com/file/d/1qly8Fzuzl-ovJ0Z7mwehSLxQ6USOIF9i/view
 
@@ -24,7 +24,7 @@ spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 �
 
 2-2 
 加分題 : 再使用requests.get語法讀取資料
-
+  
 
 專題三　同時儲存檔案及存入資料庫　https://drive.google.com/file/d/1aIw9lUrz-ExrCn1L7Z-kVcqSRjjGtF3S/view  
 爬取網址: https://gogakuru.com/english/phrase/genre/180_%E5%88%9D%E7%B4%9A%E3%83%AC%E3%83%99%E3%83%AB.html?layoutPhrase=1&orderPhrase=1&condMovie=0&flow=enSearchGenre&condGenre=180&perPage=50  
