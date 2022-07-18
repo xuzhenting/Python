@@ -26,7 +26,7 @@ spotlist 連結所爬的 txt 檔名為 spot_對應的 category_ title 的前 4 �
 加分題 : 再使用requests.get語法讀取資料
 
 
-專題三　同時儲存檔案及存入資料庫　https://drive.google.com/file/d/1aIw9lUrz-ExrCn1L7Z-kVcqSRjjGtF3S/view
+專題三　同時儲存檔案及存入資料庫　https://drive.google.com/file/d/1aIw9lUrz-ExrCn1L7Z-kVcqSRjjGtF3S/view  
 爬取網址: https://gogakuru.com/english/phrase/genre/180_%E5%88%9D%E7%B4%9A%E3%83%AC%E3%83%99%E3%83%AB.html?layoutPhrase=1&orderPhrase=1&condMovie=0&flow=enSearchGenre&condGenre=180&perPage=50
 請把網頁的所有英文句子(EX. You bet!)(只要文字)用 SLENIUM 抓下來,且爬取的時候不顯示螢幕,並把爬下來的語料存成三種形式:  
 3-1 txt  
